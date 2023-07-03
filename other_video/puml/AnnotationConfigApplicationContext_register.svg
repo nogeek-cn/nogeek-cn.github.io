@@ -1,0 +1,1496 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1174px" preserveAspectRatio="none" style="width:2360px;height:1174px;background:#FFFFFF;" version="1.1" viewBox="0 0 2360 1174" width="2360px" zoomAndPan="magnify"><defs/><g><rect fill="#E3F2FD" height="916.8242" style="stroke:#424242;stroke-width:1.0;" width="1871.5" x="483" y="205.0195"/><rect fill="#E3F2FD" height="297.2148" style="stroke:#424242;stroke-width:1.0;" width="643.5" x="928" y="398.7266"/><rect fill="#E3F2FD" height="404.9023" style="stroke:#424242;stroke-width:1.0;" width="933.5" x="1411" y="709.9414"/><rect fill="#E3F2FD" height="331.2813" style="stroke:#424242;stroke-width:1.0;" width="913.5" x="1421" y="776.5625"/><line style="stroke:#008000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="140" x2="140" y1="36.4883" y2="1138.8438"/><line style="stroke:#008000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="402" x2="402" y1="36.4883" y2="1138.8438"/><line style="stroke:#008000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="631" x2="631" y1="36.4883" y2="1138.8438"/><line style="stroke:#008000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="835" x2="835" y1="36.4883" y2="1138.8438"/><line style="stroke:#008000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1021" x2="1021" y1="36.4883" y2="1138.8438"/><line style="stroke:#008000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1287" x2="1287" y1="36.4883" y2="1138.8438"/><line style="stroke:#008000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1442" x2="1442" y1="36.4883" y2="1138.8438"/><line style="stroke:#008000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1615" x2="1615" y1="36.4883" y2="1138.8438"/><line style="stroke:#008000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1805" x2="1805" y1="36.4883" y2="1138.8438"/><line style="stroke:#008000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1999" x2="1999" y1="36.4883" y2="1138.8438"/><line style="stroke:#008000;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="2238.5" x2="2238.5" y1="36.4883" y2="1138.8438"/><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="270" x="5" y="5"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="256" x="12" y="25.5352">AnnotationConfigApplicationContext</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="270" x="5" y="1137.8438"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="256" x="12" y="1158.3789">AnnotationConfigApplicationContext</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="234" x="285" y="5"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="220" x="292" y="25.5352">AnnotatedBeanDefinitionReader</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="234" x="285" y="1137.8438"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="220" x="292" y="1158.3789">AnnotatedBeanDefinitionReader</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="204" x="529" y="5"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="190" x="536" y="25.5352">this.scopeMetadataResolver</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="204" x="529" y="1137.8438"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="190" x="536" y="1158.3789">this.scopeMetadataResolver</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="185" x="743" y="5"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="171" x="750" y="25.5352">this.beanNameGenerator</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="185" x="743" y="1137.8438"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="171" x="750" y="1158.3789">this.beanNameGenerator</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="167" x="938" y="5"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="153" x="945" y="25.5352">AnnotationConfigUtils</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="167" x="938" y="1137.8438"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="153" x="945" y="1158.3789">AnnotationConfigUtils</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="155" x="1210" y="5"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="141" x="1217" y="25.5352">ScopedProxyCreator</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="155" x="1210" y="1137.8438"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="141" x="1217" y="1158.3789">ScopedProxyCreator</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="133" x="1376" y="5"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="119" x="1383" y="25.5352">ScopedProxyUtils</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="133" x="1376" y="1137.8438"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="119" x="1383" y="1158.3789">ScopedProxyUtils</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="192" x="1519" y="5"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="178" x="1526" y="25.5352">BeanDefinitionReaderUtils</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="192" x="1519" y="1137.8438"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="178" x="1526" y="1158.3789">BeanDefinitionReaderUtils</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="169" x="1721" y="5"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="155" x="1728" y="25.5352">BeanDefinitionRegistry</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="169" x="1721" y="1137.8438"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="155" x="1728" y="1158.3789">BeanDefinitionRegistry</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="198" x="1900" y="5"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="184" x="1907" y="25.5352">DefaultListableBeanFactory</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="198" x="1900" y="1137.8438"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="184" x="1907" y="1158.3789">DefaultListableBeanFactory</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="171" x="2153.5" y="5"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="157" x="2160.5" y="25.5352">AbstractBeanDefinition</text><rect fill="#1565C0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#1565C0;stroke-width:0.0;" width="171" x="2153.5" y="1137.8438"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="157" x="2160.5" y="1158.3789">AbstractBeanDefinition</text><line style="stroke:#616161;stroke-width:1.0;" x1="140" x2="182" y1="66.6211" y2="66.6211"/><line style="stroke:#616161;stroke-width:1.0;" x1="182" x2="182" y1="66.6211" y2="79.6211"/><line style="stroke:#616161;stroke-width:1.0;" x1="141" x2="182" y1="79.6211" y2="79.6211"/><polygon fill="#616161" points="151,75.6211,141,79.6211,151,83.6211,147,79.6211" style="stroke:#616161;stroke-width:1.0;"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="110" x="147" y="62.0898">register(BeanClass)</text><polygon fill="#616161" points="390,103.7539,400,107.7539,390,111.7539,394,107.7539" style="stroke:#616161;stroke-width:1.0;"/><line style="stroke:#616161;stroke-width:1.0;" x1="140" x2="396" y1="107.7539" y2="107.7539"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="110" x="216" y="103.2227">register(BeanClass)</text><line style="stroke:#616161;stroke-width:1.0;" x1="402" x2="444" y1="135.8867" y2="135.8867"/><line style="stroke:#616161;stroke-width:1.0;" x1="444" x2="444" y1="135.8867" y2="148.8867"/><line style="stroke:#616161;stroke-width:1.0;" x1="403" x2="444" y1="148.8867" y2="148.8867"/><polygon fill="#616161" points="413,144.8867,403,148.8867,413,152.8867,409,148.8867" style="stroke:#616161;stroke-width:1.0;"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="191" x="409" y="131.3555">registerBean(java.lang.Class&lt;?&gt;)</text><line style="stroke:#616161;stroke-width:1.0;" x1="402" x2="444" y1="177.0195" y2="177.0195"/><line style="stroke:#616161;stroke-width:1.0;" x1="444" x2="444" y1="177.0195" y2="190.0195"/><line style="stroke:#616161;stroke-width:1.0;" x1="403" x2="444" y1="190.0195" y2="190.0195"/><polygon fill="#616161" points="413,186.0195,403,190.0195,413,194.0195,409,190.0195" style="stroke:#616161;stroke-width:1.0;"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="90" x="409" y="172.4883">doRegisterBean</text><path d="M483,205.0195 L640,205.0195 L640,213.5078 L630,223.5078 L483,223.5078 L483,205.0195 " fill="#BBDEFB" style="stroke:#1565C0;stroke-width:1.5;"/><rect fill="none" height="916.8242" style="stroke:#424242;stroke-width:1.0;" width="1871.5" x="483" y="205.0195"/><text fill="#222222" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="112" x="498" y="219.5547">doRegisterBean</text><line style="stroke:#616161;stroke-width:1.0;" x1="631" x2="673" y1="243.6406" y2="243.6406"/><line style="stroke:#616161;stroke-width:1.0;" x1="673" x2="673" y1="243.6406" y2="256.6406"/><line style="stroke:#616161;stroke-width:1.0;" x1="632" x2="673" y1="256.6406" y2="256.6406"/><polygon fill="#616161" points="642,252.6406,632,256.6406,642,260.6406,638,256.6406" style="stroke:#616161;stroke-width:1.0;"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="129" x="638" y="239.1094">resolveScopeMetadata</text><path d="M493,230.8301 L493,256.8301 L626,256.8301 L626,240.8301 L616,230.8301 L493,230.8301 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><path d="M616,230.8301 L616,240.8301 L626,240.8301 L616,230.8301 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="112" x="499" y="249.3652">解析作用域元信息</text><line style="stroke:#616161;stroke-width:1.0;" x1="835.5" x2="877.5" y1="284.7734" y2="284.7734"/><line style="stroke:#616161;stroke-width:1.0;" x1="877.5" x2="877.5" y1="284.7734" y2="297.7734"/><line style="stroke:#616161;stroke-width:1.0;" x1="836.5" x2="877.5" y1="297.7734" y2="297.7734"/><polygon fill="#616161" points="846.5,293.7734,836.5,297.7734,846.5,301.7734,842.5,297.7734" style="stroke:#616161;stroke-width:1.0;"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="113" x="842.5" y="280.2422">generateBeanName</text><path d="M704,271.9629 L704,297.9629 L830,297.9629 L830,281.9629 L820,271.9629 L704,271.9629 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><path d="M820,271.9629 L820,281.9629 L830,281.9629 L820,271.9629 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="105" x="710" y="290.498">生成 beanName</text><line style="stroke:#616161;stroke-width:1.0;" x1="1021.5" x2="1063.5" y1="348.3164" y2="348.3164"/><line style="stroke:#616161;stroke-width:1.0;" x1="1063.5" x2="1063.5" y1="348.3164" y2="361.3164"/><line style="stroke:#616161;stroke-width:1.0;" x1="1022.5" x2="1063.5" y1="361.3164" y2="361.3164"/><polygon fill="#616161" points="1032.5,357.3164,1022.5,361.3164,1032.5,365.3164,1028.5,361.3164" style="stroke:#616161;stroke-width:1.0;"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="252" x="1028.5" y="343.7852">processCommonDefinitionAnnotations(abd);</text><path d="M797,310.7734 L797,385.7734 L1016,385.7734 L1016,320.7734 L1006,310.7734 L797,310.7734 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><path d="M1006,310.7734 L1006,320.7734 L1016,320.7734 L1006,310.7734 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="126" x="803" y="329.3086">生成 bean 的元信息</text><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="182" x="807" y="345.7969">`@Lazy` 、 `@Primary` 、</text><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="110" x="803" y="362.2852">`@DependsOn`</text><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="194" x="807" y="378.7734">`@Role`  、 `@Description`</text><path d="M928,398.7266 L1239,398.7266 L1239,407.2148 L1229,417.2148 L928,417.2148 L928,398.7266 " fill="#BBDEFB" style="stroke:#1565C0;stroke-width:1.5;"/><rect fill="none" height="297.2148" style="stroke:#424242;stroke-width:1.0;" width="643.5" x="928" y="398.7266"/><text fill="#222222" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="266" x="943" y="413.2617">通过这个方法已经加载配置文件的各种属性</text><line style="stroke:#616161;stroke-width:1.0;" x1="1021.5" x2="1063.5" y1="479.7461" y2="479.7461"/><line style="stroke:#616161;stroke-width:1.0;" x1="1063.5" x2="1063.5" y1="479.7461" y2="492.7461"/><line style="stroke:#616161;stroke-width:1.0;" x1="1022.5" x2="1063.5" y1="492.7461" y2="492.7461"/><polygon fill="#616161" points="1032.5,488.7461,1022.5,492.7461,1032.5,496.7461,1028.5,492.7461" style="stroke:#616161;stroke-width:1.0;"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="138" x="1028.5" y="432.8164">applyScopedProxyMode</text><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="96" x="1047.5" y="446.9492">(scopeMetadata,</text><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="96" x="1047.5" y="461.082">definitionHolder,</text><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="75" x="1060" y="475.2148">this.registry);</text><line style="stroke:#616161;stroke-width:1.0;" x1="1287.5" x2="1329.5" y1="549.1445" y2="549.1445"/><line style="stroke:#616161;stroke-width:1.0;" x1="1329.5" x2="1329.5" y1="549.1445" y2="562.1445"/><line style="stroke:#616161;stroke-width:1.0;" x1="1288.5" x2="1329.5" y1="562.1445" y2="562.1445"/><polygon fill="#616161" points="1298.5,558.1445,1288.5,562.1445,1298.5,566.1445,1294.5,562.1445" style="stroke:#616161;stroke-width:1.0;"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="110" x="1297.5" y="516.3477">createScopedProxy</text><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="112" x="1294.5" y="530.4805">(definition, registry,</text><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="109" x="1298" y="544.6133">proxyTargetClass);</text><line style="stroke:#616161;stroke-width:1.0;" x1="1442.5" x2="1484.5" y1="590.2773" y2="590.2773"/><line style="stroke:#616161;stroke-width:1.0;" x1="1484.5" x2="1484.5" y1="590.2773" y2="603.2773"/><line style="stroke:#616161;stroke-width:1.0;" x1="1443.5" x2="1484.5" y1="603.2773" y2="603.2773"/><polygon fill="#616161" points="1453.5,599.2773,1443.5,603.2773,1453.5,607.2773,1449.5,603.2773" style="stroke:#616161;stroke-width:1.0;"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="110" x="1449.5" y="585.7461">createScopedProxy</text><polygon fill="#616161" points="1298.5,683.9414,1288.5,687.9414,1298.5,691.9414,1294.5,687.9414" style="stroke:#616161;stroke-width:1.0;"/><line style="stroke:#616161;stroke-width:1.0;" x1="1292.5" x2="1441.5" y1="687.9414" y2="687.9414"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="62" x="1332" y="626.8789">return new</text><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="121" x="1304.5" y="641.0117">BeanDefinitionHolder</text><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="95" x="1315.5" y="655.1445">(proxyDefinition,</text><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="108" x="1309" y="669.2773">originalBeanName,</text><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="131" x="1299.5" y="683.4102">definition.getAliases());</text><path d="M1411,709.9414 L1584,709.9414 L1584,718.4297 L1574,728.4297 L1411,728.4297 L1411,709.9414 " fill="#BBDEFB" style="stroke:#1565C0;stroke-width:1.5;"/><rect fill="none" height="404.9023" style="stroke:#424242;stroke-width:1.0;" width="933.5" x="1411" y="709.9414"/><text fill="#222222" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="128" x="1426" y="724.4766">注册 Bean 的元信息</text><line style="stroke:#616161;stroke-width:1.0;" x1="1615" x2="1657" y1="748.5625" y2="748.5625"/><line style="stroke:#616161;stroke-width:1.0;" x1="1657" x2="1657" y1="748.5625" y2="761.5625"/><line style="stroke:#616161;stroke-width:1.0;" x1="1616" x2="1657" y1="761.5625" y2="761.5625"/><polygon fill="#616161" points="1626,757.5625,1616,761.5625,1626,765.5625,1622,761.5625" style="stroke:#616161;stroke-width:1.0;"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="126" x="1622" y="744.0313">registerBeanDefinition</text><path d="M1421,776.5625 L1629,776.5625 L1629,785.0508 L1619,795.0508 L1421,795.0508 L1421,776.5625 " fill="#BBDEFB" style="stroke:#1565C0;stroke-width:1.5;"/><rect fill="none" height="331.2813" style="stroke:#424242;stroke-width:1.0;" width="913.5" x="1421" y="776.5625"/><text fill="#222222" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="163" x="1436" y="791.0977">registerBeanDefinition</text><polygon fill="#616161" points="1793.5,811.1836,1803.5,815.1836,1793.5,819.1836,1797.5,815.1836" style="stroke:#616161;stroke-width:1.0;"/><line style="stroke:#616161;stroke-width:1.0;" x1="1615" x2="1799.5" y1="815.1836" y2="815.1836"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="126" x="1647.25" y="810.6523">registerBeanDefinition</text><polygon fill="#616161" points="1987,843.4941,1997,847.4941,1987,851.4941,1991,847.4941" style="stroke:#616161;stroke-width:1.0;"/><line style="stroke:#616161;stroke-width:1.0;" x1="1805.5" x2="1993" y1="847.4941" y2="847.4941"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="126" x="1839.25" y="842.9629">registerBeanDefinition</text><path d="M1646,828.1836 L1646,854.1836 L1800,854.1836 L1800,838.1836 L1790,828.1836 L1646,828.1836 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><path d="M1790,828.1836 L1790,838.1836 L1800,838.1836 L1790,828.1836 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="133" x="1652" y="846.7188">注册 beanDefinition</text><polygon fill="#616161" points="2227,889.9375,2237,893.9375,2227,897.9375,2231,893.9375" style="stroke:#616161;stroke-width:1.0;"/><line style="stroke:#616161;stroke-width:1.0;" x1="1999" x2="2233" y1="893.9375" y2="893.9375"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="142" x="2048" y="875.2734">((AbstractBeanDefinition)</text><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="148" x="2045" y="889.4063">beanDefinition).validate();</text><path d="M1781,867.5605 L1781,893.5605 L1994,893.5605 L1994,877.5605 L1984,867.5605 L1781,867.5605 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><path d="M1984,867.5605 L1984,877.5605 L1994,877.5605 L1984,867.5605 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="192" x="1787" y="886.0957">先进行 BeanDefinition 的验证</text><line style="stroke:#616161;stroke-width:1.0;" x1="1999" x2="2041" y1="936.2031" y2="936.2031"/><line style="stroke:#616161;stroke-width:1.0;" x1="2041" x2="2041" y1="936.2031" y2="949.2031"/><line style="stroke:#616161;stroke-width:1.0;" x1="2000" x2="2041" y1="949.2031" y2="949.2031"/><polygon fill="#616161" points="2010,945.2031,2000,949.2031,2010,953.2031,2006,949.2031" style="stroke:#616161;stroke-width:1.0;"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="193" x="2006" y="917.5391">!isAllowBeanDefinitionOverriding()</text><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="4" x="2100.5" y="931.6719">:</text><path d="M1791,916.3262 L1791,942.3262 L1994,942.3262 L1994,926.3262 L1984,916.3262 L1791,916.3262 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><path d="M1984,916.3262 L1984,926.3262 L1994,926.3262 L1984,916.3262 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="182" x="1797" y="934.8613">假如不允许覆盖，抛出来错误</text><line style="stroke:#616161;stroke-width:1.0;" x1="1999" x2="2041" y1="1033.8672" y2="1033.8672"/><line style="stroke:#616161;stroke-width:1.0;" x1="2041" x2="2041" y1="1033.8672" y2="1046.8672"/><line style="stroke:#616161;stroke-width:1.0;" x1="2000" x2="2041" y1="1046.8672" y2="1046.8672"/><polygon fill="#616161" points="2010,1042.8672,2000,1046.8672,2010,1050.8672,2006,1046.8672" style="stroke:#616161;stroke-width:1.0;"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="226" x="2006" y="972.8047">this.beanDefinitionMap.put(beanName,</text><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="91" x="2071.5" y="986.9375">beanDefinition);</text><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="4" x="2117" y="1001.0703"> </text><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="147" x="2045.5" y="1015.2031">this.beanDefinitionNames</text><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="127" x="2055.5" y="1029.3359">= updatedDefinitions;</text><path d="M1775,984.5469 L1775,1026.5469 L1994,1026.5469 L1994,994.5469 L1984,984.5469 L1775,984.5469 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><path d="M1984,984.5469 L1984,994.5469 L1994,994.5469 L1984,984.5469 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="194" x="1781" y="1003.082">更新 beanDefinitionMap 还有</text><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="147" x="1781" y="1019.5703">beanDefinitionNames</text><polygon fill="#616161" points="1793.5,1083.4219,1803.5,1087.4219,1793.5,1091.4219,1797.5,1087.4219" style="stroke:#616161;stroke-width:1.0;"/><line style="stroke:#616161;stroke-width:1.0;" x1="1615" x2="1799.5" y1="1087.4219" y2="1087.4219"/><text fill="#616161" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="12" lengthAdjust="spacing" textLength="75" x="1672.75" y="1082.8906">registerAlias:</text><path d="M1431,1059.8672 L1431,1101.8672 L1610,1101.8672 L1610,1069.8672 L1600,1059.8672 L1431,1059.8672 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><path d="M1600,1059.8672 L1600,1069.8672 L1610,1069.8672 L1600,1059.8672 " fill="#90A4AE" style="stroke:#181818;stroke-width:1.0;"/><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="154" x="1437" y="1078.4023">注册别名（就是当成一个</text><text fill="#FFFFFF" font-family="&quot;'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace&quot;" font-size="14" lengthAdjust="spacing" textLength="107" x="1437" y="1094.8906">另外一个 Bean）</text><!--MD5=[5163b3deba05530b2103a4ceb38db16a]
+@startuml
+!define DC_1 #BBBBBB
+!define DC_2 #535353
+!define DC_4 #2B2B2B
+!define DC_3 #3C3F41
+!define DC_5 #438AA3
+!define DC_6 #5E8A4F
+!define DC_7 #589DF6
+!define DC_8 #FF6464
+
+!define MD_RED_50 #FFEBEE
+!define MD_RED_100 #FFCDD2
+!define MD_RED_200 #EF9A9A
+!define MD_RED_300 #E57373
+!define MD_RED_400 #EF5350
+!define MD_RED_500 #F44336
+!define MD_RED_600 #E53935
+!define MD_RED_700 #D32F2F
+!define MD_RED_800 #C62828
+!define MD_RED_900 #B71C1C
+!define MD_RED_A100 #FF8A80
+!define MD_RED_A200 #FF5252
+!define MD_RED_A400 #FF1744
+!define MD_RED_A700 #D50000
+!define MD_PINK_50 #FCE4EC
+!define MD_PINK_100 #F8BBD0
+!define MD_PINK_200 #F48FB1
+!define MD_PINK_300 #F06292
+!define MD_PINK_400 #EC407A
+!define MD_PINK_500 #E91E63
+!define MD_PINK_600 #D81B60
+!define MD_PINK_700 #C2185B
+!define MD_PINK_800 #AD1457
+!define MD_PINK_900 #880E4F
+!define MD_PINK_A100 #FF80AB
+!define MD_PINK_A200 #FF4081
+!define MD_PINK_A400 #F50057
+!define MD_PINK_A700 #C51162
+!define MD_PURPLE_50 #F3E5F5
+!define MD_PURPLE_100 #E1BEE7
+!define MD_PURPLE_200 #CE93D8
+!define MD_PURPLE_300 #BA68C8
+!define MD_PURPLE_400 #AB47BC
+!define MD_PURPLE_500 #9C27B0
+!define MD_PURPLE_600 #8E24AA
+!define MD_PURPLE_700 #7B1FA2
+!define MD_PURPLE_800 #6A1B9A
+!define MD_PURPLE_900 #4A148C
+!define MD_PURPLE_A100 #EA80FC
+!define MD_PURPLE_A200 #E040FB
+!define MD_PURPLE_A400 #D500F9
+!define MD_PURPLE_A700 #AA00FF
+!define MD_DPURPLE_50 #EDE7F6
+!define MD_DPURPLE_100 #D1C4E9
+!define MD_DPURPLE_200 #B39DDB
+!define MD_DPURPLE_300 #9575CD
+!define MD_DPURPLE_400 #7E57C2
+!define MD_DPURPLE_500 #673AB7
+!define MD_DPURPLE_600 #5E35B1
+!define MD_DPURPLE_700 #512DA8
+!define MD_DPURPLE_800 #4527A0
+!define MD_DPURPLE_900 #311B92
+!define MD_DPURPLE_A100 #B388FF
+!define MD_DPURPLE_A200 #7C4DFF
+!define MD_DPURPLE_A400 #651FFF
+!define MD_DPURPLE_A700 #6200EA
+!define MD_INDIGO_50 #E8EAF6
+!define MD_INDIGO_100 #C5CAE9
+!define MD_INDIGO_200 #9FA8DA
+!define MD_INDIGO_300 #7986CB
+!define MD_INDIGO_400 #5C6BC0
+!define MD_INDIGO_500 #3F51B5
+!define MD_INDIGO_600 #3949AB
+!define MD_INDIGO_700 #303F9F
+!define MD_INDIGO_800 #283593
+!define MD_INDIGO_900 #1A237E
+!define MD_INDIGO_A100 #8C9EFF
+!define MD_INDIGO_A200 #536DFE
+!define MD_INDIGO_A400 #3D5AFE
+!define MD_INDIGO_A700 #304FFE
+!define MD_BLUE_50 #E3F2FD
+!define MD_BLUE_100 #BBDEFB
+!define MD_BLUE_200 #90CAF9
+!define MD_BLUE_300 #64B5F6
+!define MD_BLUE_400 #42A5F5
+!define MD_BLUE_500 #2196F3
+!define MD_BLUE_600 #1E88E5
+!define MD_BLUE_700 #1976D2
+!define MD_BLUE_800 #1565C0
+!define MD_BLUE_900 #0D47A1
+!define MD_BLUE_A100 #82B1FF
+!define MD_BLUE_A200 #448AFF
+!define MD_BLUE_A400 #2979FF
+!define MD_BLUE_A700 #2962FF
+!define MD_LBLUE_50 #E1F5FE
+!define MD_LBLUE_100 #B3E5FC
+!define MD_LBLUE_200 #81D4FA
+!define MD_LBLUE_300 #4FC3F7
+!define MD_LBLUE_400 #29B6F6
+!define MD_LBLUE_500 #03A9F4
+!define MD_LBLUE_600 #039BE5
+!define MD_LBLUE_700 #0288D1
+!define MD_LBLUE_800 #0277BD
+!define MD_LBLUE_900 #01579B
+!define MD_LBLUE_A100 #80D8FF
+!define MD_LBLUE_A200 #40C4FF
+!define MD_LBLUE_A400 #00B0FF
+!define MD_LBLUE_A700 #0091EA
+!define MD_CYAN_50 #E0F7FA
+!define MD_CYAN_100 #B2EBF2
+!define MD_CYAN_200 #80DEEA
+!define MD_CYAN_300 #4DD0E1
+!define MD_CYAN_400 #26C6DA
+!define MD_CYAN_500 #00BCD4
+!define MD_CYAN_600 #00ACC1
+!define MD_CYAN_700 #0097A7
+!define MD_CYAN_800 #00838F
+!define MD_CYAN_900 #006064
+!define MD_CYAN_A100 #84FFFF
+!define MD_CYAN_A200 #18FFFF
+!define MD_CYAN_A400 #00E5FF
+!define MD_CYAN_A700 #00B8D4
+!define MD_TEAL_50 #E0F2F1
+!define MD_TEAL_100 #B2DFDB
+!define MD_TEAL_200 #80CBC4
+!define MD_TEAL_300 #4DB6AC
+!define MD_TEAL_400 #26A69A
+!define MD_TEAL_500 #009688
+!define MD_TEAL_600 #00897B
+!define MD_TEAL_700 #00796B
+!define MD_TEAL_800 #00695C
+!define MD_TEAL_900 #004D40
+!define MD_TEAL_A100 #A7FFEB
+!define MD_TEAL_A200 #64FFDA
+!define MD_TEAL_A400 #1DE9B6
+!define MD_TEAL_A700 #00BFA5
+!define MD_GREEN_50 #E8F5E9
+!define MD_GREEN_100 #C8E6C9
+!define MD_GREEN_200 #A5D6A7
+!define MD_GREEN_300 #81C784
+!define MD_GREEN_400 #66BB6A
+!define MD_GREEN_500 #4CAF50
+!define MD_GREEN_600 #43A047
+!define MD_GREEN_700 #388E3C
+!define MD_GREEN_800 #2E7D32
+!define MD_GREEN_900 #1B5E20
+!define MD_GREEN_A100 #B9F6CA
+!define MD_GREEN_A200 #69F0AE
+!define MD_GREEN_A400 #00E676
+!define MD_GREEN_A700 #00C853
+!define MD_LGREEN_50 #F1F8E9
+!define MD_LGREEN_100 #DCEDC8
+!define MD_LGREEN_200 #C5E1A5
+!define MD_LGREEN_300 #AED581
+!define MD_LGREEN_400 #9CCC65
+!define MD_LGREEN_500 #8BC34A
+!define MD_LGREEN_600 #7CB342
+!define MD_LGREEN_700 #689F38
+!define MD_LGREEN_800 #558B2F
+!define MD_LGREEN_900 #33691E
+!define MD_LGREEN_A100 #CCFF90
+!define MD_LGREEN_A200 #B2FF59
+!define MD_LGREEN_A400 #76FF03
+!define MD_LGREEN_A700 #64DD17
+!define MD_LIME_50 #F9FBE7
+!define MD_LIME_100 #F0F4C3
+!define MD_LIME_200 #E6EE9C
+!define MD_LIME_300 #DCE775
+!define MD_LIME_400 #D4E157
+!define MD_LIME_500 #CDDC39
+!define MD_LIME_600 #C0CA33
+!define MD_LIME_700 #AFB42B
+!define MD_LIME_800 #9E9D24
+!define MD_LIME_900 #827717
+!define MD_LIME_A100 #F4FF81
+!define MD_LIME_A200 #EEFF41
+!define MD_LIME_A400 #C6FF00
+!define MD_LIME_A700 #AEEA00
+!define MD_YELLOW_50 #FFFDE7
+!define MD_YELLOW_100 #FFF9C4
+!define MD_YELLOW_200 #FFF59D
+!define MD_YELLOW_300 #FFF176
+!define MD_YELLOW_400 #FFEE58
+!define MD_YELLOW_500 #FFEB3B
+!define MD_YELLOW_600 #FDD835
+!define MD_YELLOW_700 #FBC02D
+!define MD_YELLOW_800 #F9A825
+!define MD_YELLOW_900 #F57F17
+!define MD_YELLOW_A100 #FFFF8D
+!define MD_YELLOW_A200 #FFFF00
+!define MD_YELLOW_A400 #FFEA00
+!define MD_YELLOW_A700 #FFD600
+!define MD_AMBER_50 #FFF8E1
+!define MD_AMBER_100 #FFECB3
+!define MD_AMBER_200 #FFE082
+!define MD_AMBER_300 #FFD54F
+!define MD_AMBER_400 #FFCA28
+!define MD_AMBER_500 #FFC107
+!define MD_AMBER_600 #FFB300
+!define MD_AMBER_700 #FFA000
+!define MD_AMBER_800 #FF8F00
+!define MD_AMBER_900 #FF6F00
+!define MD_AMBER_A100 #FFE57F
+!define MD_AMBER_A200 #FFD740
+!define MD_AMBER_A400 #FFC400
+!define MD_AMBER_A700 #FFAB00
+!define MD_ORANGE_50 #FFF3E0
+!define MD_ORANGE_100 #FFE0B2
+!define MD_ORANGE_200 #FFCC80
+!define MD_ORANGE_300 #FFB74D
+!define MD_ORANGE_400 #FFA726
+!define MD_ORANGE_500 #FF9800
+!define MD_ORANGE_600 #FB8C00
+!define MD_ORANGE_700 #F57C00
+!define MD_ORANGE_800 #EF6C00
+!define MD_ORANGE_900 #E65100
+!define MD_ORANGE_A100 #FFD180
+!define MD_ORANGE_A200 #FFAB40
+!define MD_ORANGE_A400 #FF9100
+!define MD_ORANGE_A700 #FF6D00
+!define MD_DORANGE_50 #FBE9E7
+!define MD_DORANGE_100 #FFCCBC
+!define MD_DORANGE_200 #FFAB91
+!define MD_DORANGE_300 #FF8A65
+!define MD_DORANGE_400 #FF7043
+!define MD_DORANGE_500 #FF5722
+!define MD_DORANGE_600 #F4511E
+!define MD_DORANGE_700 #E64A19
+!define MD_DORANGE_800 #D84315
+!define MD_DORANGE_900 #BF360C
+!define MD_DORANGE_A100 #FF9E80
+!define MD_DORANGE_A200 #FF6E40
+!define MD_DORANGE_A400 #FF3D00
+!define MD_DORANGE_A700 #DD2C00
+!define MD_BROWN_50 #EFEBE9
+!define MD_BROWN_100 #D7CCC8
+!define MD_BROWN_200 #BCAAA4
+!define MD_BROWN_300 #A1887F
+!define MD_BROWN_400 #8D6E63
+!define MD_BROWN_500 #795548
+!define MD_BROWN_600 #6D4C41
+!define MD_BROWN_700 #5D4037
+!define MD_BROWN_800 #4E342E
+!define MD_BROWN_900 #3E2723
+!define MD_GRAY_50 #FAFAFA
+!define MD_GRAY_100 #F5F5F5
+!define MD_GRAY_200 #EEEEEE
+!define MD_GRAY_300 #E0E0E0
+!define MD_GRAY_400 #BDBDBD
+!define MD_GRAY_500 #9E9E9E
+!define MD_GRAY_600 #757575
+!define MD_GRAY_700 #616161
+!define MD_GRAY_800 #424242
+!define MD_GRAY_900 #212121
+!define MD_BGRAY_50 #ECEFF1
+!define MD_BGRAY_100 #CFD8DC
+!define MD_BGRAY_200 #B0BEC5
+!define MD_BGRAY_300 #90A4AE
+!define MD_BGRAY_400 #78909C
+!define MD_BGRAY_500 #607D8B
+!define MD_BGRAY_600 #546E7A
+!define MD_BGRAY_700 #455A64
+!define MD_BGRAY_800 #37474F
+!define MD_BGRAY_900 #263238
+!define MD_BLACK #000000
+!define MD_WHITE #FFFFFF
+!define Black   #222222
+!define MidnightBlue   #363D5D
+!define Red     #F6363F
+!define Pink    #F6216E
+!define Magenta #A54FBD
+!define Green   #37A77C
+!define Yellow  #F97A00
+!define Blue    #1E98F2
+!define CYan    #25AFCA
+!define AntiqueWhite   #FEF2DC
+!define Grey #444444
+
+!define NOTE_BG_COLOR MD_BGRAY_300
+!define NOTE_BORDER_COLOR MD_BGRAY_300
+
+!define NOTE_Q_BG_COLOR MD_YELLOW_800
+!define NOTE_Q_BORDER_COLOR MD_YELLOW_800
+
+!define EL_BG_COLOR_900 MD_BLUE_900
+!define EL_BORDER_COLOR_900 MD_BLUE_900
+!define EL_BG_COLOR_800 MD_BLUE_800
+!define EL_BORDER_COLOR_800 MD_BLUE_800
+!define EL_BG_COLOR_600 MD_BLUE_600
+!define EL_BORDER_COLOR_600 MD_BLUE_600
+
+!define EL_BG_COLOR_400 MD_BLUE_400
+!define EL_BORDER_COLOR_400 MD_BLUE_400
+
+!define EL_BG_COLOR_300 MD_BLUE_300
+!define EL_BORDER_COLOR_300 MD_BLUE_300
+
+
+
+
+
+
+
+
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+skinparam ComponentStyle uml2
+skinparam Shadowing false
+
+skinparam Default {
+    FontName "'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace"
+    FontColor Black
+    FontSize  14
+    FontStyle plain
+    Shadowing false
+    TextAlignment center
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+
+skinparam Note {
+    BackgroundColor NOTE_BG_COLOR
+    BorderColor NOTE_BORDER_COLOR
+    BorderThickness 1
+    FontColor White
+    Shadowing false
+    TextAlignment left
+}
+
+skinparam Note<<quit>> {
+
+    BackgroundColor NOTE_Q_BG_COLOR
+    BorderColor NOTE_Q_BORDER_COLOR
+}
+
+skinparam Sequence {
+    ActorBorderThickness 1
+    LifeLineBorderColor GREEN
+    ParticipantBorderThickness 0
+    Shadowing false
+
+
+    GroupBorderThickness 1
+    GroupBorderColor MD_BLUE_800
+    GroupBackgroundColor MD_BLUE_100
+}
+
+skinparam Activity {
+
+    StartColor Green
+    EndColor Red
+    AttributeFontColor white
+    AttributeFontSize  15
+    AttributeFontname  Droid Sans Mono
+
+    BackgroundColor MD_BLUE_100
+    BorderColor MD_BLUE_200
+    BorderThickness 1
+
+    ArrowThickness 1
+
+
+    BarColor   MD_BLUE_900
+
+
+    DiamondBackgroundColor   MD_ORANGE_100
+    DiamondBorderColor    MD_ORANGE_200
+
+
+}
+
+skinparam Class {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_BLUE_300
+    BorderThickness 1
+
+
+    StereotypeFontColor DC_7
+    StereotypeFontSize 14
+}
+
+
+
+skinparam Interface {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+    FontSize 14
+
+
+    StereotypeFontColor DC_7
+    StereotypeFontSize 1
+}
+
+
+
+skinparam Participant {
+    BackgroundColor EL_BG_COLOR_800
+    BorderColor EL_BORDER_COLOR_800
+    FontColor White
+    Shadowing false
+}
+
+skinparam Actor {
+    BackgroundColor EL_BG_COLOR_800
+    BorderColor EL_BORDER_COLOR_800
+    Shadowing false
+}
+
+skinparam UseCase {
+    BackgroundColor EL_BG_COLOR_300
+    BorderColor EL_BG_COLOR_300
+    Shadowing false
+    ArrowThickness 1
+    ArrowColor EL_BORDER_COLOR_800
+
+    ActorBackgroundColor EL_BG_COLOR_800
+    ActorBorderColor MD_BLUE_900
+    ActorShadowing false
+
+}
+
+
+skinparam State {
+    FontSize           17
+
+    AttributeFontSize  14
+
+    BackgroundColor    MD_BLUE_100
+    BorderColor        MD_BLUE_200
+    StartColor Green
+    EndColor Red
+}
+
+skinparam Partition {
+    BorderColor MD_GRAY_800
+    BorderStyle dashed
+
+    BorderThickness 1
+}
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Queue {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+skinparam Agent {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+skinparam Artifact {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+
+skinparam Boundary {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+skinparam Card {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+
+skinparam Cloud {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+
+skinparam Component {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+skinparam Control {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+skinparam Database {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+
+skinparam Entity {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+skinparam File {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+skinparam Folder {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+
+}
+skinparam Frame {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+skinparam Node {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+
+
+skinparam Package {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+skinparam Stack {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+
+skinparam Rectangle {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+
+skinparam Storage {
+    BackgroundColor MD_BLUE_50
+    BorderColor MD_GRAY_800
+}
+
+skinparam rectangle<<usercase>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor MD_GRAY_800
+    BorderColor MD_GRAY_800
+    BorderStyle dashed
+    BackgroundColor White
+}
+
+
+
+!define TECHN_FONT_SIZE 12
+
+!define LAYOUT_TOP_DOWN top to bottom direction
+!define LAYOUT_LEFT_RIGHT left to right direction
+
+!definelong LAYOUT_AS_SKETCH
+skinparam backgroundColor #EEEBDC
+skinparam handwritten true
+center footer <font color=red>Warning:</font> Created for discussion, needs to be validated
+!enddefinelong
+
+
+!define RED_ARROW skinparam ArrowColor Red
+!define MEGENTA_ARROW skinparam ArrowColor Magenta
+!define GREEN_ARROW skinparam ArrowColor MD_GREEN_200
+!define GREY_ARROW skinparam ArrowColor DC_1
+!define YELLOW_ARROW skinparam ArrowColor Yellow
+
+
+!define Lay_D(e_from, e_to) e_from -[hidden]D- e_to
+!define Lay_U(e_from, e_to) e_from -[hidden]U- e_to
+!define Lay_R(e_from, e_to) e_from -[hidden]R- e_to
+!define Lay_L(e_from, e_to) e_from -[hidden]L- e_to
+
+
+!define UserCasePackage(e_alias, e_label) rectangle "==e_label" <<usercase>> as e_alias
+!define UserCasePackage(e_alias, e_label, e_type) rectangle "==e_label\n<size:TECHN_FONT_SIZE>[e_type]</size>" <<usercase>> as e_alias
+
+!define ELEMENT_FONT_COLOR MD_WHITE
+
+!define PERSON_BG_COLOR MD_BLUE_800
+!define PERSON_BORDER_COLOR MD_BLUE_900
+!define EXTERNAL_PERSON_BG_COLOR MD_GRAY_700
+!define EXTERNAL_PERSON_BORDER_COLOR MD_GRAY_800
+
+!define SYSTEM_BG_COLOR MD_BLUE_700
+!define SYSTEM_BORDER_COLOR MD_BLUE_800
+!define EXTERNAL_SYSTEM_BG_COLOR MD_GRAY_600
+!define EXTERNAL_SYSTEM_BORDER_COLOR MD_GRAY_700
+
+!define DATABASE_BG_COLOR MD_BLUE_700
+!define DATABASE_BORDER_COLOR MD_BLUE_800
+
+!define ACTOR_BG_COLOR MD_BLUE_800
+!define ACTOR_BORDER_COLOR MD_BLUE_900
+!define INTERNAL_ACTOR_BG_COLOR MD_GRAY_700
+!define INTERNAL_ACTOR_BORDER_COLOR MD_GRAY_800
+
+!define CONTAINER_BG_COLOR MD_BLUE_600
+!define CONTAINER_BORDER_COLOR MD_BLUE_600
+
+!define COMPONENT_BG_COLOR MD_BLUE_200
+!define COMPONENT_BORDER_COLOR MD_BLUE_300
+!define COMPONENT_FONT_COLOR Black
+
+
+!define TECHN_FONT_SIZE 12
+
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color MD_GRAY_700
+    FontColor MD_GRAY_700
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor MD_GRAY_800
+    BorderColor MD_GRAY_800
+    BorderStyle dashed
+    BackgroundColor White
+}
+
+
+
+
+!define Boundary(e_alias, e_label) rectangle "==e_label" <<boundary>> as e_alias
+!define Boundary(e_alias, e_label, e_type) rectangle "==e_label\n<size:TECHN_FONT_SIZE>[e_type]</size>" <<boundary>> as e_alias
+
+
+!define Rel_(e_alias1, e_alias2, e_label, e_direction="") e_alias1 e_direction e_alias2 : "===e_label"
+!define Rel_(e_alias1, e_alias2, e_label, e_techn, e_direction="") e_alias1 e_direction e_alias2 : "===e_label\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//"
+
+!define Rel(e_from,e_to, e_label) Rel_(e_from,e_to, e_label, "- ->")
+!define Rel(e_from,e_to, e_label, e_techn) Rel_(e_from,e_to, e_label, e_techn, "- ->")
+
+!define Rel_Back(e_to, e_from, e_label) Rel_(e_to, e_from, e_label, "<- -")
+!define Rel_Back(e_to, e_from, e_label, e_techn) Rel_(e_to, e_from, e_label, e_techn, "<- -")
+
+!define Rel_Neighbor(e_from,e_to, e_label) Rel_(e_from,e_to, e_label, "->")
+!define Rel_Neighbor(e_from,e_to, e_label, e_techn) Rel_(e_from,e_to, e_label, e_techn, "->")
+
+!define Rel_Back_Neighbor(e_to, e_from, e_label) Rel_(e_to, e_from, e_label, "<-")
+!define Rel_Back_Neighbor(e_to, e_from, e_label, e_techn) Rel_(e_to, e_from, e_label, e_techn, "<-")
+
+!define Rel_D(e_from,e_to, e_label) Rel_(e_from,e_to, e_label, "-DOWN->")
+!define Rel_D(e_from,e_to, e_label, e_techn) Rel_(e_from,e_to, e_label, e_techn, "-DOWN->")
+!define Rel_Down(e_from,e_to, e_label) Rel_D(e_from,e_to, e_label)
+!define Rel_Down(e_from,e_to, e_label, e_techn) Rel_D(e_from,e_to, e_label, e_techn)
+
+!define Rel_U(e_from,e_to, e_label) Rel_(e_from,e_to, e_label, "-UP->")
+!define Rel_U(e_from,e_to, e_label, e_techn) Rel_(e_from,e_to, e_label, e_techn, "-UP->")
+!define Rel_Up(e_from,e_to, e_label) Rel_U(e_from,e_to, e_label)
+!define Rel_Up(e_from,e_to, e_label, e_techn) Rel_U(e_from,e_to, e_label, e_techn)
+
+!define Rel_L(e_from,e_to, e_label) Rel_(e_from,e_to, e_label, "-LEFT->")
+!define Rel_L(e_from,e_to, e_label, e_techn) Rel_(e_from,e_to, e_label, e_techn, "-LEFT->")
+!define Rel_Left(e_from,e_to, e_label) Rel_L(e_from,e_to, e_label)
+!define Rel_Left(e_from,e_to, e_label, e_techn) Rel_L(e_from,e_to, e_label, e_techn)
+
+!define Rel_R(e_from,e_to, e_label) Rel_(e_from,e_to, e_label, "-RIGHT->")
+!define Rel_R(e_from,e_to, e_label, e_techn) Rel_(e_from,e_to, e_label, e_techn, "-RIGHT->")
+!define Rel_Right(e_from,e_to, e_label) Rel_R(e_from,e_to, e_label)
+!define Rel_Right(e_from,e_to, e_label, e_techn) Rel_R(e_from,e_to, e_label, e_techn)
+
+
+
+skinparam actor<<person>> {
+  BorderColor ACTOR_BORDER_COLOR
+  BackgroundColor ACTOR_BG_COLOR
+}
+
+skinparam actor<<internal_person>> {
+  BorderColor INTERNAL_ACTOR_BORDER_COLOR
+  BackgroundColor INTERNAL_ACTOR_BG_COLOR
+}
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor ELEMENT_FONT_COLOR
+    FontColor ELEMENT_FONT_COLOR
+    BackgroundColor PERSON_BG_COLOR
+    BorderColor PERSON_BORDER_COLOR
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor ELEMENT_FONT_COLOR
+    FontColor ELEMENT_FONT_COLOR
+    BackgroundColor EXTERNAL_PERSON_BG_COLOR
+    BorderColor EXTERNAL_PERSON_BORDER_COLOR
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor ELEMENT_FONT_COLOR
+    FontColor ELEMENT_FONT_COLOR
+    BackgroundColor SYSTEM_BG_COLOR
+    BorderColor SYSTEM_BORDER_COLOR
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor ELEMENT_FONT_COLOR
+    FontColor ELEMENT_FONT_COLOR
+    BackgroundColor EXTERNAL_SYSTEM_BG_COLOR
+    BorderColor EXTERNAL_SYSTEM_BORDER_COLOR
+}
+
+skinparam database<<system>> {
+    StereotypeFontColor ELEMENT_FONT_COLOR
+    FontColor ELEMENT_FONT_COLOR
+    BackgroundColor SYSTEM_BG_COLOR
+    BorderColor SYSTEM_BORDER_COLOR
+}
+
+skinparam database<<external_system>> {
+    StereotypeFontColor ELEMENT_FONT_COLOR
+    FontColor ELEMENT_FONT_COLOR
+    BackgroundColor EXTERNAL_SYSTEM_BG_COLOR
+    BorderColor EXTERNAL_SYSTEM_BORDER_COLOR
+}
+
+!definelong LAYOUT_WITH_LEGEND_CN
+hide stereotype
+legend right
+|=   颜色           |= 类型 |
+|<PERSON_BG_COLOR>      | 用户 |
+|<EXTERNAL_PERSON_BG_COLOR>      | 外部用户 |
+|<SYSTEM_BG_COLOR>   | 系统 |
+|<EXTERNAL_SYSTEM_BG_COLOR>      | 外部系统 |
+endlegend
+!enddefinelong
+
+!definelong LAYOUT_WITH_LEGEND
+hide stereotype
+legend right
+|=    color          |= Type |
+|<PERSON_BG_COLOR>      | person |
+|<EXTERNAL_PERSON_BG_COLOR>      | external person |
+|<SYSTEM_BG_COLOR>   | system |
+|<EXTERNAL_SYSTEM_BG_COLOR>      | external system |
+endlegend
+!enddefinelong
+
+
+!define Actor(e_alias, e_label) actor "==e_label" <<person>> as e_alias
+!define Actor(e_alias, e_label, e_descr) actor "==e_label\n\n e_descr" <<person>> as e_alias
+
+!define Actor_Ext(e_alias, e_label) actor "==e_label" <<internal_person>> as e_alias
+!define Actor_Ext(e_alias, e_label, e_descr) actor "==e_label\n\n e_descr" <<internal_person>> as e_alias
+
+
+!define Person(e_alias, e_label) rectangle "==e_label" <<person>> as e_alias
+!define Person(e_alias, e_label, e_descr) rectangle "==e_label\n\n e_descr" <<person>> as e_alias
+
+!define Person_Ext(e_alias, e_label) rectangle "==e_label" <<external_person>> as e_alias
+!define Person_Ext(e_alias, e_label, e_descr) rectangle "==e_label\n\n e_descr" <<external_person>> as e_alias
+
+!define System(e_alias, e_label) rectangle "==e_label" <<system>> as e_alias
+!define System(e_alias, e_label, e_descr) rectangle "==e_label\n\n e_descr" <<system>> as e_alias
+
+!define System_Ext(e_alias, e_label) rectangle "==e_label" <<external_system>> as e_alias
+!define System_Ext(e_alias, e_label, e_descr) rectangle "==e_label\n\n e_descr" <<external_system>> as e_alias
+
+!define SystemDb(e_alias, e_label) database "==e_label" <<system>> as e_alias
+!define SystemDb(e_alias, e_label, e_descr) database "==e_label\n\n e_descr" <<system>> as e_alias
+
+!define SystemDb_Ext(e_alias, e_label) database "==e_label" <<external_system>> as e_alias
+!define SystemDb_Ext(e_alias, e_label, e_descr) database "==e_label\n\n e_descr" <<external_system>> as e_alias
+
+
+!define Enterprise_Boundary(e_alias, e_label) Boundary(e_alias, e_label, "Enterprise")
+!define System_Boundary(e_alias, e_label) Boundary(e_alias, e_label, "System")
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor ELEMENT_FONT_COLOR
+    FontColor ELEMENT_FONT_COLOR
+    BackgroundColor CONTAINER_BG_COLOR
+    BorderColor CONTAINER_BORDER_COLOR
+}
+
+skinparam database<<container>> {
+    StereotypeFontColor ELEMENT_FONT_COLOR
+    FontColor ELEMENT_FONT_COLOR
+    BackgroundColor CONTAINER_BG_COLOR
+    BorderColor CONTAINER_BORDER_COLOR
+}
+
+!definelong LAYOUT_WITH_LEGEND_CN
+hide stereotype
+legend right
+|=    颜色          |= 类型 |
+|<PERSON_BG_COLOR>      | 用户 |
+|<EXTERNAL_PERSON_BG_COLOR>      | 外部用户 |
+|<SYSTEM_BG_COLOR>   | 系统 |
+|<EXTERNAL_SYSTEM_BG_COLOR>      | 外部系统 |
+|<CONTAINER_BG_COLOR>   | 容器 |
+endlegend
+!enddefinelong
+
+!definelong LAYOUT_WITH_LEGEND
+hide stereotype
+legend right
+|=              |= Type |
+|<PERSON_BG_COLOR>      | person |
+|<EXTERNAL_PERSON_BG_COLOR>      | external person |
+|<SYSTEM_BG_COLOR>   | system |
+|<EXTERNAL_SYSTEM_BG_COLOR>      | external system |
+|<CONTAINER_BG_COLOR>   | container |
+endlegend
+!enddefinelong
+
+
+!define Container(e_alias, e_label, e_techn) rectangle "==e_label\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//" <<container>> as e_alias
+!define Container(e_alias, e_label, e_techn, e_descr) rectangle "==e_label\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//\n\n e_descr" <<container>> as e_alias
+
+!define ContainerDb(e_alias, e_label, e_techn) database "==e_label\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//" <<container>> as e_alias
+!define ContainerDb(e_alias, e_label, e_techn, e_descr) database "==e_label\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//\n\n e_descr" <<container>> as e_alias
+
+
+!define Container_Boundary(e_alias, e_label) Boundary(e_alias, e_label, "Container")
+
+
+
+skinparam rectangle<<component>> {
+    StereotypeFontColor ELEMENT_FONT_COLOR
+    FontColor COMPONENT_FONT_COLOR
+    BackgroundColor COMPONENT_BG_COLOR
+    BorderColor COMPONENT_BORDER_COLOR
+}
+
+skinparam database<<component>> {
+    StereotypeFontColor ELEMENT_FONT_COLOR
+    FontColor COMPONENT_FONT_COLOR
+    BackgroundColor COMPONENT_BG_COLOR
+    BorderColor COMPONENT_BORDER_COLOR
+}
+
+
+!definelong LAYOUT_WITH_LEGEND_CN
+hide stereotype
+legend right
+|=              |= Type |
+|<PERSON_BG_COLOR>      | 用户 |
+|<EXTERNAL_PERSON_BG_COLOR>      | 外部用户 |
+|<SYSTEM_BG_COLOR>   | 系统 |
+|<EXTERNAL_SYSTEM_BG_COLOR>      | 外部系统 |
+|<CONTAINER_BG_COLOR>   | 容器 |
+|<COMPONENT_BG_COLOR>   | 组件 |
+endlegend
+!enddefinelong
+
+
+!definelong LAYOUT_WITH_LEGEND
+hide stereotype
+legend right
+|=              |= Type |
+|<PERSON_BG_COLOR>      | person |
+|<EXTERNAL_PERSON_BG_COLOR>      | external person |
+|<SYSTEM_BG_COLOR>   | system |
+|<EXTERNAL_SYSTEM_BG_COLOR>      | external system |
+|<CONTAINER_BG_COLOR>   | container |
+|<COMPONENT_BG_COLOR>   | component |
+endlegend
+!enddefinelong
+
+
+!define Component(e_alias, e_label, e_techn) rectangle "==e_label\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//" <<component>> as e_alias
+!define Component(e_alias, e_label, e_techn, e_descr) rectangle "==e_label\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//\n\n e_descr" <<component>> as e_alias
+
+!define ComponentDb(e_alias, e_label, e_techn) database "==e_label\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//" <<component>> as e_alias
+!define ComponentDb(e_alias, e_label, e_techn, e_descr) database "==e_label\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//\n\n e_descr" <<component>> as e_alias
+
+
+!define CLASS_LINE_FONT_SIZE 12
+
+!define Link_(e_alias1, e_alias2, e_label, e_direction="") e_alias1 e_direction e_alias2 : "e_label"
+!define Link_(e_alias1, e_alias2, e_label, e_techn, e_direction="") e_alias1 e_direction e_alias2 : "e_label\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//"
+
+!define Link(e_from,e_to, e_label) Link_(e_from,e_to, e_label, "- ->")
+!define Link(e_from,e_to, e_label, e_techn) Link_(e_from,e_to, e_label, e_techn, "- ->")
+
+!define Generalize(e_from,e_to, e_label) Link_(e_from,e_to, e_label, "- -|>")
+!define Generalize(e_from,e_to, e_label, e_techn) Link_(e_from,e_to, e_label, e_techn, "- -|>")
+!define GeneralizeBack(e_from,e_to, e_label) Link_(e_from,e_to, e_label, "<|- -")
+!define GeneralizeBack(e_from,e_to, e_label, e_techn) Link_(e_from,e_to, e_label, e_techn, "<|- -")
+
+
+
+
+!define Realize(e_from,e_to, e_label) Link_(e_from,e_to, e_label, "..|>")
+!define Realize(e_from,e_to, e_label, e_techn) Link_(e_from,e_to, e_label, e_techn, "..|>")
+!define RealizeBack(e_from,e_to, e_label) Link_(e_from,e_to, e_label, "<|..")
+!define RealizeBack(e_from,e_to, e_label, e_techn) Link_(e_from,e_to, e_label, e_techn, "<|..")
+
+
+!define Aggregation(e_from,e_to, e_label) Link_(e_from,e_to, e_label, "- -o")
+!define Aggregation(e_from,e_to, e_label, e_techn) Link_(e_from,e_to, e_label, e_techn, "- -o")
+!define AggregationBack(e_from,e_to, e_label) Link_(e_from,e_to, e_label, "o- -")
+!define AggregationBack(e_from,e_to, e_label, e_techn) Link_(e_from,e_to, e_label, e_techn, "o- -")
+
+
+
+!define Composition(e_from,e_to, e_label) Link_(e_from,e_to, e_label, "- -*")
+!define Composition(e_from,e_to, e_label, e_techn) Link_(e_from,e_to, e_label, e_techn, "- -*")
+!define CompositionBack(e_from,e_to, e_label) Link_(e_from,e_to, e_label, "*- -")
+!define CompositionBack(e_from,e_to, e_label, e_techn) Link_(e_from,e_to, e_label, e_techn, "*- -")
+
+
+
+
+!define Dependency(e_from,e_to, e_label) Link_(e_from,e_to, e_label, "..>")
+!define Dependency(e_from,e_to, e_label, e_techn) Link_(e_from,e_to, e_label, e_techn, "..>")
+!define DependencyBack(e_from,e_to, e_label) Link_(e_from,e_to, e_label, "<..")
+!define DependencyBack(e_from,e_to, e_label, e_techn) Link_(e_from,e_to, e_label, e_techn, "<..")
+
+
+!define Association(e_from,e_to, e_label) Link_(e_from,e_to, e_label, "- -")
+!define Association(e_from,e_to, e_label, e_techn) Link_(e_from,e_to, e_label, e_techn, "- -")
+AnnotationConfigApplicationContext -> AnnotationConfigApplicationContext: register(BeanClass)
+AnnotationConfigApplicationContext -> AnnotatedBeanDefinitionReader: register(BeanClass)
+AnnotatedBeanDefinitionReader -> AnnotatedBeanDefinitionReader: registerBean(java.lang.Class<?>)
+AnnotatedBeanDefinitionReader -> AnnotatedBeanDefinitionReader: doRegisterBean
+
+group doRegisterBean
+
+this.scopeMetadataResolver -> this.scopeMetadataResolver: resolveScopeMetadata
+note left: 解析作用域元信息
+this.beanNameGenerator ->  this.beanNameGenerator : generateBeanName
+note left: 生成 beanName
+AnnotationConfigUtils -> AnnotationConfigUtils : processCommonDefinitionAnnotations(abd);
+note left: 生成 bean 的元信息 \n `@Lazy` 、 `@Primary` 、  `@DependsOn`\n `@Role`  、 `@Description`
+
+group 通过这个方法已经加载配置文件的各种属性
+AnnotationConfigUtils -> AnnotationConfigUtils : applyScopedProxyMode\n(scopeMetadata, definitionHolder, this.registry);
+ScopedProxyCreator -> ScopedProxyCreator: createScopedProxy\n(definition, registry, proxyTargetClass);
+ScopedProxyUtils -> ScopedProxyUtils : createScopedProxy
+ScopedProxyUtils -> ScopedProxyCreator :  return new BeanDefinitionHolder\n(proxyDefinition, originalBeanName, definition.getAliases());
+end
+
+
+group 注册 Bean 的元信息
+
+BeanDefinitionReaderUtils -> BeanDefinitionReaderUtils: registerBeanDefinition
+
+group registerBeanDefinition
+BeanDefinitionReaderUtils -> BeanDefinitionRegistry: registerBeanDefinition
+
+BeanDefinitionRegistry-> DefaultListableBeanFactory: registerBeanDefinition
+note left: 注册 beanDefinition
+
+DefaultListableBeanFactory -> AbstractBeanDefinition :  ((AbstractBeanDefinition)\nbeanDefinition).validate();
+note left: 先进行 BeanDefinition 的验证
+
+DefaultListableBeanFactory -> DefaultListableBeanFactory: !isAllowBeanDefinitionOverriding() :
+note left: 假如不允许覆盖，抛出来错误
+
+DefaultListableBeanFactory -> DefaultListableBeanFactory: this.beanDefinitionMap.put(beanName, beanDefinition); \n this.beanDefinitionNames = updatedDefinitions;
+note left: 更新 beanDefinitionMap 还有 beanDefinitionNames
+
+
+
+
+
+
+BeanDefinitionReaderUtils -> BeanDefinitionRegistry : registerAlias:
+note left: 注册别名（就是当成一个 另外一个 Bean）
+end
+
+end
+
+end
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+skinparam ComponentStyle uml2
+skinparam Shadowing false
+
+skinparam Default {
+    FontName "'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace"
+    FontColor #222222
+    FontSize  14
+    FontStyle plain
+    Shadowing false
+    TextAlignment center
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Note {
+    BackgroundColor #90A4AE
+    BorderColor #90A4AE
+    BorderThickness 1
+    FontColor White
+    Shadowing false
+    TextAlignment left
+}
+
+skinparam Note<<quit>> {
+
+    BackgroundColor #F9A825
+    BorderColor #F9A825
+}
+
+skinparam Sequence {
+    ActorBorderThickness 1
+    LifeLineBorderColor GREEN
+    ParticipantBorderThickness 0
+    Shadowing false
+
+
+    GroupBorderThickness 1
+    GroupBorderColor #1565C0
+    GroupBackgroundColor #BBDEFB
+}
+
+skinparam Activity {
+
+    StartColor #37A77C
+    EndColor #F6363F
+    AttributeFontColor white
+    AttributeFontSize  15
+    AttributeFontname  Droid Sans Mono
+
+    BackgroundColor #BBDEFB
+    BorderColor #90CAF9
+    BorderThickness 1
+
+    ArrowThickness 1
+
+
+    BarColor   #0D47A1
+
+
+    DiamondBackgroundColor   #FFE0B2
+    DiamondBorderColor    #FFCC80
+
+
+}
+
+skinparam Class {
+    BackgroundColor #E3F2FD
+    BorderColor #64B5F6
+    BorderThickness 1
+
+
+    StereotypeFontColor #589DF6
+    StereotypeFontSize 14
+}
+
+
+
+skinparam Interface {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+    FontSize 14
+
+
+    StereotypeFontColor #589DF6
+    StereotypeFontSize 1
+}
+
+
+
+skinparam Participant {
+    BackgroundColor #1565C0
+    BorderColor #1565C0
+    FontColor White
+    Shadowing false
+}
+
+skinparam Actor {
+    BackgroundColor #1565C0
+    BorderColor #1565C0
+    Shadowing false
+}
+
+skinparam UseCase {
+    BackgroundColor #64B5F6
+    BorderColor #64B5F6
+    Shadowing false
+    ArrowThickness 1
+    ArrowColor #1565C0
+
+    ActorBackgroundColor #1565C0
+    ActorBorderColor #0D47A1
+    ActorShadowing false
+
+}
+
+
+skinparam State {
+    FontSize           17
+
+    AttributeFontSize  14
+
+    BackgroundColor    #BBDEFB
+    BorderColor        #90CAF9
+    StartColor #37A77C
+    EndColor #F6363F
+}
+
+skinparam Partition {
+    BorderColor #424242
+    BorderStyle dashed
+
+    BorderThickness 1
+}
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Queue {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Agent {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Artifact {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Boundary {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Card {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Cloud {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Component {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Control {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Database {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Entity {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam File {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Folder {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+
+}
+skinparam Frame {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Node {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+
+skinparam Package {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Stack {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Rectangle {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Storage {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam rectangle<<usercase>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #424242
+    BorderColor #424242
+    BorderStyle dashed
+    BackgroundColor White
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #616161
+    FontColor #616161
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #424242
+    BorderColor #424242
+    BorderStyle dashed
+    BackgroundColor White
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam actor<<person>> {
+  BorderColor #0D47A1
+  BackgroundColor #1565C0
+}
+
+skinparam actor<<internal_person>> {
+  BorderColor #424242
+  BackgroundColor #616161
+}
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1565C0
+    BorderColor #0D47A1
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #616161
+    BorderColor #424242
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1976D2
+    BorderColor #1565C0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #757575
+    BorderColor #616161
+}
+
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1976D2
+    BorderColor #1565C0
+}
+
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #757575
+    BorderColor #616161
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1E88E5
+    BorderColor #1E88E5
+}
+
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1E88E5
+    BorderColor #1E88E5
+}
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<component>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #222222
+    BackgroundColor #90CAF9
+    BorderColor #64B5F6
+}
+
+skinparam database<<component>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #222222
+    BackgroundColor #90CAF9
+    BorderColor #64B5F6
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AnnotationConfigApplicationContext -> AnnotationConfigApplicationContext: register(BeanClass)
+AnnotationConfigApplicationContext -> AnnotatedBeanDefinitionReader: register(BeanClass)
+AnnotatedBeanDefinitionReader -> AnnotatedBeanDefinitionReader: registerBean(java.lang.Class<?>)
+AnnotatedBeanDefinitionReader -> AnnotatedBeanDefinitionReader: doRegisterBean
+
+group doRegisterBean
+
+this.scopeMetadataResolver -> this.scopeMetadataResolver: resolveScopeMetadata
+note left: 解析作用域元信息
+this.beanNameGenerator ->  this.beanNameGenerator : generateBeanName
+note left: 生成 beanName
+AnnotationConfigUtils -> AnnotationConfigUtils : processCommonDefinitionAnnotations(abd);
+note left: 生成 bean 的元信息 \n `@Lazy` 、 `@Primary` 、  `@DependsOn`\n `@Role`  、 `@Description`
+
+group 通过这个方法已经加载配置文件的各种属性
+AnnotationConfigUtils -> AnnotationConfigUtils : applyScopedProxyMode\n(scopeMetadata, definitionHolder, this.registry);
+ScopedProxyCreator -> ScopedProxyCreator: createScopedProxy\n(definition, registry, proxyTargetClass);
+ScopedProxyUtils -> ScopedProxyUtils : createScopedProxy
+ScopedProxyUtils -> ScopedProxyCreator :  return new BeanDefinitionHolder\n(proxyDefinition, originalBeanName, definition.getAliases());
+end
+
+
+group 注册 Bean 的元信息
+
+BeanDefinitionReaderUtils -> BeanDefinitionReaderUtils: registerBeanDefinition
+
+group registerBeanDefinition
+BeanDefinitionReaderUtils -> BeanDefinitionRegistry: registerBeanDefinition
+
+BeanDefinitionRegistry-> DefaultListableBeanFactory: registerBeanDefinition
+note left: 注册 beanDefinition
+
+DefaultListableBeanFactory -> AbstractBeanDefinition :  ((AbstractBeanDefinition)\nbeanDefinition).validate();
+note left: 先进行 BeanDefinition 的验证
+
+DefaultListableBeanFactory -> DefaultListableBeanFactory: !isAllowBeanDefinitionOverriding() :
+note left: 假如不允许覆盖，抛出来错误
+
+DefaultListableBeanFactory -> DefaultListableBeanFactory: this.beanDefinitionMap.put(beanName, beanDefinition); \n this.beanDefinitionNames = updatedDefinitions;
+note left: 更新 beanDefinitionMap 还有 beanDefinitionNames
+
+
+
+
+
+
+BeanDefinitionReaderUtils -> BeanDefinitionRegistry : registerAlias:
+note left: 注册别名（就是当成一个 另外一个 Bean）
+end
+
+end
+
+end
+@enduml
+
+PlantUML version 1.2022.12(Mon Oct 24 02:12:26 CST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: zh
+Country: CN
+--></g></svg>

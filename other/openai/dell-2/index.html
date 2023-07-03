@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>示例页面</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="/js/darian-own.js"></script>
+    <style>
+        /* Style the input box */
+        #imageDesc-input {
+            display: block;
+            width: 100%;
+            height: 75px;
+            padding: 10px;
+            font-size: 16px;
+            line-height: 1.5;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            margin-bottom: 10px;
+            resize: none;
+        }
+    </style>
+</head>
+<body>
+<h1>示例页面</h1>
+<h1 id="notifyMsg_id">提示信息</h1>
+
+<label for="appkey-input">请输入 appkey：</label>
+<input type="password" id="appkey-input">
+<br>
+
+<label for="appkey-input">请输入 图片描述：</label>
+<br />
+<textarea id="imageDesc-input"></textarea>>
+<br>
+
+<label for="appkey-input">请输入 图片大小：1024x1024; 256x256; 512x512</label>
+<input type="text" id="imageSize-input" value="256x256" width="400px">
+<br>
+
+<label for="appkey-input">请输入 图片个数：</label>
+<input type="text" id="imageCount-input" value="1" width="400px">
+<br>
+
+<button id="fetch-images-button">获取图片链接</button>
+<div id="image-container"></div>
+
+<script>
+    $('#fetch-images-button').on('click', function () {
+        let appkey = $('#appkey-input').val();
+        if (!appkey) {
+            appkey = getCookie('openAI-appkey');
+        }
+        if (!appkey) {
+            alert('请输入 appkey！');
+            return;
+        }
+        setCookie7Days('openAI-appkey', appkey);
+        const imageDesc = $('#imageDesc-input').val();
+        if (!imageDesc) {
+            alert('请输入 图片描述！');
+            return;
+        }
+
+        const imageSize = $('#imageSize-input').val();
+        if (!imageSize) {
+            alert('请输入 图片大小！');
+            return;
+        }
+
+        const imageCount = $('#imageCount-input').val();
+
+        if (!imageCount) {
+            alert('请输入 图片个数！');
+            return;
+        }
+
+        const imageCountInt = parseInt(imageCount);
+
+        $.ajax({
+            url: 'https://api.openai.com/v1/images/generations',
+            method: 'POST',
+            dataType: 'json',
+            changeOrigin: true, // 是否跨域
+            headers: {
+                'Content-Type': 'application/json',
+                'Authorization': 'Bearer ' + appkey,
+                // 'token': getCookie("token"),
+            },
+            data: JSON.stringify({prompt: imageDesc, n: imageCountInt, size: imageSize}),
+            processData: false, // 不对 data 进行序列化处理
+            beforeSend: function (XMLHttpRequest) {
+                $('#notifyMsg_id').html("Please waiting, Loading data ....");
+            },
+            success: function (data) {
+                $('#notifyMsg_id').html("生成成功");
+                // 创建一个 ul 元素，并将图片链接添加为 li 元素的内容
+                const ulElement = document.createElement('ul');
+                for (const imageUrl of data.data) {
+                    let imgElement = document.createElement('img');
+                    imgElement.src = imageUrl.url;
+                    const liElement = document.createElement('li');
+                    liElement.appendChild(imgElement);
+                    ulElement.appendChild(liElement);
+                }
+
+                // 将 ul 元素添加到页面上
+                const imageContainer = document.getElementById('image-container');
+                imageContainer.appendChild(ulElement);
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                console.error('发生错误：', textStatus, errorThrown);
+                $('#notifyMsg_id').html("发生错误");
+            }
+        });
+    });
+</script>
+</body>
+</html>

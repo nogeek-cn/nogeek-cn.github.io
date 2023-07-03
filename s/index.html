@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>短链工具页</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+    <script src="/js/jquery.min.js"></script>
+</head>
+
+<body>
+<div id="body_dev"></div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<div>
+    1. 添加链接到st.json <br/>
+    2. 然后域名 +?c=短链接code 就是短链接<br/>
+
+    <br>
+    <br>
+    <br>
+    例如：https://docs.darian.top/s/index.html?c=20230101
+    <br>
+    https://darian.top/s/?c=20230101
+</div>
+</body>
+
+<script>
+    let ST_CONFIG_JSON_URL = "https://darian.top/s/feed-all-st.json";
+
+    function stJsonURL() {
+        // // 当前网页的地址
+        // if (new RegExp("^http://localhost").test(location.href)) {
+        //     ST_CONFIG_JSON_URL = "/s/st.json";
+        // }
+        //
+        // if (new RegExp("^https://darian.top").test(location.href)) {
+        //     // 将本页面的 js css 统一防止在某个目录下，就可以实现了。
+        //     ST_CONFIG_JSON_URL = "https://darian.top/s/st.json";
+        // }
+    }
+
+
+    window.onload = function () {
+        console.log("window.onload");
+        stJsonURL();
+
+        console.log("获取param:c")
+
+        let sortCode = getUrlParam("c");
+
+        console.log(sortCode);
+
+        if (!sortCode) {
+            $('#body_dev').html("没有短链接code");
+            return false;
+        }
+
+        $.ajax({
+            url: ST_CONFIG_JSON_URL,
+            type: 'get',
+            dataType: 'json',
+            changeOrigin: true, // 是否跨域
+            success: function (datas, state) {
+                locationData = datas;
+                // alert(state);
+                console.log("locationData: " + locationData);
+
+                //3、直接获取
+                let longLinkUrl = locationData['' + sortCode + ''];
+                if (!longLinkUrl) {
+                    $('#body_dev').html("转换后长链接为空！！！");
+                    return false;
+                }
+                console.log("longLinkUrl:" + longLinkUrl)
+                $('#body_dev').html("跳转到" + longLinkUrl);
+                window.location.assign(longLinkUrl);
+            }
+            ,
+            error: function (xhr, state, errorThrown) {
+                $('#body_dev').html("获取配置信息报错");
+            }
+        })
+    }
+
+    //获取url中的参数
+    function getUrlParam(name) {
+        var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); //构造一个含有目标参数的正则表达式对象
+        var r = window.location.search.substr(1).match(reg);  //匹配目标参数
+        if (r != null) return decodeURI(r[2]);
+        return null; //返回参数值
+    }
+
+</script>

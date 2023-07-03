@@ -1,0 +1,72 @@
+/* 替换：https://darian.top/Darian1996/demo/2022/css/BlogMarkdownHTML.css */
+/* https://darian.top/css/MarkdownHTML/Darian1996GitHubBlog.css  */
+/* 这个 darian1996.github.io 来用 */
+body {
+    /*max-width: 52rem;*/
+    /*padding: 2rem;*/
+    /*margin: auto;*/
+    /*font-family: 'Source Han Serif', serif;*/
+}
+
+img {
+    /*max-width:100%;*/
+    /*max-height:100%;*/
+    /*display: block;*/
+    /*text-align: center;*/
+    /*margin:auto;*/
+}
+
+h1 {
+    /*margin-block: 1.2rem;*/
+    /*font-size: 63px;*/
+}
+
+figcaption {
+    /*text-align: center;*/
+}
+
+nav a, footer div a {
+    /*    !*margin:0px 5px;*!*/
+    /*    background-image: linear-gradient(*/
+    /*            45deg,*/
+    /*            #e44219,*/
+    /*            #005ff3*/
+    /*    );*/
+    /*    background-clip: text;*/
+    /*    -webkit-background-clip: text;*/
+    /*    -webkit-text-fill-color: transparent;*/
+}
+
+p {
+    /*font-size: 27px;*/
+}
+
+p, li, h1, h2, h3 {
+    /*    background-image: linear-gradient(*/
+    /*            45deg,*/
+    /*            #e44219,*/
+    /*            #005ff3*/
+    /*    );*/
+    /*    background-clip: text;*/
+    /*    -webkit-background-clip: text;*/
+    /*    -webkit-text-fill-color: transparent;*/
+}
+
+.center {
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+}
+
+/* https://blog.csdn.net/weixin_42927679/article/details/125346864  */
+/* 选择中间的容器，并且把分页给排除掉 */
+.post-container p, .post-container li, .post-container h1, .post-container h2, .post-container h3, .postlist-container p, .postlist-container li, .postlist-container h1, .postlist-container h2, .postlist-container h3 {
+    background-image: linear-gradient(
+            45deg,
+            #e44219,
+            #005ff3
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

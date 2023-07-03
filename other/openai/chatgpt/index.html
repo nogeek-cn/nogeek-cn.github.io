@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OpenAI Chatbot Example</title>
+    <style>
+        /* Style the input box */
+        #messageInput {
+            display: block;
+            width: 100%;
+            height: 75px;
+            padding: 10px;
+            font-size: 16px;
+            line-height: 1.5;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            margin-bottom: 10px;
+            resize: none;
+        }
+    </style>
+</head>
+<body>
+<h1>OpenAI Chatbot Example</h1>
+<p>Type a message and click "Send" to chat with the bot.</p>
+<label for="apiKey">API Key:</label>
+<input type="text" id="apiKey" />
+<br /><br />
+<textarea id="messageInput"></textarea>
+<button onclick="generateText()">Send</button>
+<div id="chatLog"></div>
+<script>
+    let previousText = "";
+    let apiKey = getApiKey();
+
+    function getApiKey() {
+        // Check if the API key is already stored in a cookie
+        const cookies = document.cookie.split("; ");
+        for (const cookie of cookies) {
+            const [name, value] = cookie.split("=");
+            if (name === "apiKey") {
+                return value;
+            }
+        }
+        return "";
+    }
+
+    function setApiKey(apiKey) {
+        // Store the API key in a cookie that expires in 7 days
+        const now = new Date();
+        now.setDate(now.getDate() + 7);
+        document.cookie = `apiKey=${apiKey}; expires=${now.toUTCString()}`;
+    }
+
+
+    function generateText() {
+        const apiKey = document.getElementById("apiKey").value;
+        const inputField = document.getElementById("messageInput");
+        const userInput = inputField.value;
+
+        // Set up the request
+        const request = {
+            prompt: previousText + userInput,
+            model: "text-davinci-002",
+            temperature: 0.5,
+            max_tokens: 50,
+            n: 1,
+            stop: "\n"
+        };
+
+        // Send the request
+        fetch("https://api.openai.com/v1/completions", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                Authorization: `Bearer ${apiKey}`
+            },
+            body: JSON.stringify(request)
+        })
+            .then(response => response.json())
+            .then(responseJson => {
+                // Parse the response
+                const choices = responseJson.choices;
+
+                // Print the generated text
+                const generatedText = choices.map(choice => choice.text).join("");
+                const chatLog = document.getElementById("chatLog");
+                const message = document.createElement("p");
+                message.innerText = `You: ${userInput}\nBot: ${generatedText}`;
+                chatLog.appendChild(message);
+
+                // Save the generated text for the next request
+                previousText = previousText + userInput + generatedText;
+                inputField.value = "";
+
+                // Store the API key in a cookie
+                setApiKey(apiKey);
+            });
+    }
+
+    // Set the API key input field value
+    document.getElementById("apiKey").value = apiKey;
+</script>
+</body>
+</html>
