@@ -5,7 +5,7 @@ catalog: true
 - 杂感
 ---
 
-<link rel="stylesheet" type="text/css" href="https://darian.top/css/MarkdownHTML/Darian1996GitHubBlog.css">
+<link rel="stylesheet" type="text/css" href="https://blog.notgeek.cn/css/MarkdownHTML/Darian1996GitHubBlog.css">
 
 
 # TIPS

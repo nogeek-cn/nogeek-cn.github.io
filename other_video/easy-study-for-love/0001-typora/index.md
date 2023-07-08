@@ -9,7 +9,7 @@
 ## 语法文档 ：
 
 - Markdown基本语法文档地址： 
-  - [/other_video/easy-study-for-love/0001-typora/typora%E7%AE%80%E5%8D%95%E6%93%8D%E7%BB%83/](https://darian.top/other_video/easy-study-for-love/0001-typora/typora简单操练/) 
+  - [/other_video/easy-study-for-love/0001-typora/typora%E7%AE%80%E5%8D%95%E6%93%8D%E7%BB%83/](https://blog.notgeek.cn/other_video/easy-study-for-love/0001-typora/typora简单操练/) 
 - Markdown 画图语法地址：（Markdown的画图语法不支持在 Github / Gitee 上展示）
   - [/other_video/easy-study-for-love/0001-typora/typora%E7%94%BB%E6%B5%81%E7%A8%8B%E5%9B%BE%E3%80%81%E6%97%B6%E5%BA%8F%E5%9B%BE(%E9%A1%BA%E5%BA%8F%E5%9B%BE)%E3%80%81%E7%94%98%E7%89%B9%E5%9B%BE/](/other_video/easy-study-for-love/0001-typora/typora画流程图、时序图(顺序图)、甘特图/)
 

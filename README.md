@@ -6,9 +6,9 @@
 
 
 
-[Darian1996的博客地址](https://darian.top)
+[Darian1996的博客地址](https://blog.notgeek.cn)
 
-https://darian.top
+https://blog.notgeek.cn
 
 ## 感谢观看
 

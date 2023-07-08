@@ -9,8 +9,8 @@
 >>>>>>> 198ab3d2f289bc5a93714504cab75e02cf1b0ded
 zip : github 下载地址：
 
-- https://darian.top/other_video/easy-study-for-love/0005-%E6%B7%BB%E5%8A%A0%5B%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B%5D%E6%8F%92%E4%BB%B6/gocklaboggjfkolaknpbhddbaopcepfp.zip
-- [下载链接](https://dairan.top/other_video/easy-study-for-love/0005-%E6%B7%BB%E5%8A%A0%5B%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B%5D%E6%8F%92%E4%BB%B6/gocklaboggjfkolaknpbhddbaopcepfp.zip) 
+- https://blog.notgeek.cn/other_video/easy-study-for-love/0005-%E6%B7%BB%E5%8A%A0%5B%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B%5D%E6%8F%92%E4%BB%B6/gocklaboggjfkolaknpbhddbaopcepfp.zip
+- [下载链接](https://blog.notgeek.cn/other_video/easy-study-for-love/0005-%E6%B7%BB%E5%8A%A0%5B%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B%5D%E6%8F%92%E4%BB%B6/gocklaboggjfkolaknpbhddbaopcepfp.zip) 
 
 
 
