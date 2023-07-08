@@ -1,4 +1,4 @@
-# Darian1996 的个人博客
+# notGeek 的个人博客
 
 ​	非常感谢所有在我成长中所遇到的每一个人，我对每个人都报以由衷的感谢。
 
@@ -6,7 +6,7 @@
 
 
 
-[Darian1996的博客地址](https://blog.notgeek.cn)
+[notGeek的博客地址](https://blog.notgeek.cn)
 
 https://blog.notgeek.cn
 
