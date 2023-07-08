@@ -17,8 +17,12 @@
 - 管理（搭建核心技术团队、提高凝聚力）
 - 商业（深刻理解并在技术侧落地实施落地公司的商业战略）
 
-> 微信请点击页尾或者右侧个人小卡片
->
+<table>
+  <tr style="display: flex">
+    <td style="flex: 1; width: 100px"><img src="https://blog.notgeek.cn/img/wechat_color_poster.png"/></td>
+    <td style="flex: 1; width: 100px"><img src="https://blog.notgeek.cn/img/notgeek_color_poster.png"/></td>
+  </tr>
+<table>
 
 ### 读书计划
 
