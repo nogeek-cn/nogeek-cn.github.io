@@ -19,10 +19,9 @@
 
 
 
-| <img src="https://blog.notgeek.cn/img/wechat_color_poster.png" style="width: 100px"/> | <img src="https://blog.notgeek.cn/img/notgeek_color_poster.png" style="width: 100px"/> |
+| 我的微信                                                     | 不止极客                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-
+| <img src="https://blog.notgeek.cn/img/wechat_color_poster.png" style="width: 100px"/> | <img src="https://blog.notgeek.cn/img/notgeek_color_poster.png" style="width: 100px"/> |
 
 
 
