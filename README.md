@@ -6,9 +6,9 @@
 
 
 
-[notGeek的博客地址](https://blog.notgeek.cn)
+[notGeek的博客地址](https://notgeek.cn)
 
-https://blog.notgeek.cn
+https://notgeek.cn
 
 ## 感谢观看
 
