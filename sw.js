@@ -36,7 +36,7 @@ const HOSTNAME_WHITELIST = [
   "yanshuo.io",
   "cdnjs.cloudflare.com",
   "darian1996.github.io",
-  "blog.notgeek.cn"
+  "notgeek.cn"
 ]
 const DEPRECATED_CACHES = ['precache-v1', 'runtime', 'main-precache-v1', 'main-runtime']
 

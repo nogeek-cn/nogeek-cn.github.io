@@ -28,7 +28,8 @@
 </body>
 
 <script>
-    let ST_CONFIG_JSON_URL = "https://blog.notgeek.cn/s/feed-all-st.json";
+    let window_location_hostname =  window.location.hostname
+    let ST_CONFIG_JSON_URL = "https://" + window_location_hostname +"/s/feed-all-st.json";
 
     function stJsonURL() {
         // // 当前网页的地址
