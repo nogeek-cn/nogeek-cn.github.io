@@ -18,8 +18,11 @@ function shortLinkButtonOnClick(e) {
     console.log("shortLinkButtonOnClick.e: " + e)
     let selectTextLink = selectText(e);
     console.log('selectTextLink:' + selectTextLink);
-    console.log('(selectTextLink == \'https://blog.notgeek.cn/s/?c=\'): ' + (selectTextLink == 'https://blog.notgeek.cn/s/?c='));
-    if (selectTextLink == 'https://blog.notgeek.cn/s/?c=') {
+
+    let window_location_hostname =  window.location.hostname
+
+
+    if (selectTextLink == ('https://' + window_location_hostname + '/s/?c=')) {
         console.log('选择当前的页面链接')
         selectTextLink = location.href;
         copyText(selectTextLink);

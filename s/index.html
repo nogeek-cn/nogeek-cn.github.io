@@ -23,12 +23,13 @@
     <br>
     例如：https://docs.darian.top/s/index.html?c=20230101
     <br>
-    https://blog.notgeek.cn/s/?c=20230101
+    https://notgeek.cn/s/?c=20230101
 </div>
 </body>
 
 <script>
-    let ST_CONFIG_JSON_URL = "https://blog.notgeek.cn/s/feed-all-st.json";
+    let window_location_hostname =  window.location.hostname
+    let ST_CONFIG_JSON_URL = "https://" + window_location_hostname +"/s/feed-all-st.json";
 
     function stJsonURL() {
         // // 当前网页的地址
@@ -36,9 +37,9 @@
         //     ST_CONFIG_JSON_URL = "/s/st.json";
         // }
         //
-        // if (new RegExp("^https://blog.notgeek.cn").test(location.href)) {
+        // if (new RegExp("^https://notgeek.cn").test(location.href)) {
         //     // 将本页面的 js css 统一防止在某个目录下，就可以实现了。
-        //     ST_CONFIG_JSON_URL = "https://blog.notgeek.cn/s/st.json";
+        //     ST_CONFIG_JSON_URL = "https://notgeek.cn/s/st.json";
         // }
     }
 

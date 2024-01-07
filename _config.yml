@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: darian1934849492@gmail.com
 description: "关于程序与设计 Web & Software Engineer & Java | 这里是 @NotGeek 的个人博客，与你一起发现更大的世界。"
 keyword: "Darian, Darian无剑, 无剑的博客, notGeek Blog, 博客, 个人网站, 互联网, Web, Java, 后端, 架构, 设计"
-url: "https://blog.notgeek.cn"              # your host, for absolute URL
+url: "https://notgeek.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 post:
@@ -31,7 +31,7 @@ share_username: Darian1996
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: [ "less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md","customer_modify" ]
+exclude: [ "less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md","customer_modify","other_video"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
 timezone: CN
@@ -76,7 +76,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-258662909-1'            # Format: UA-xxxxxx-xx
-ga_domain: blog.notgeek.cn
+ga_domain: notgeek.cn
 
 
 

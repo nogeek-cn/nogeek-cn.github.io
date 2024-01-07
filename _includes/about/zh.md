@@ -4,9 +4,9 @@
 | ---------------- | ------------------------------------------------------------ |
 | 地点、学历、职业 | 杭州、本科、架构师                                           |
 | 个人邮箱         | 1934849492@qq.com                                            |
-| GitHub           | [https://github.com/Darian1996](https://github.com/Darian1996) |
-| Public-Blog      | [https://blog.notgeek.cn/](https://blog.notgeek.cn/)                   |
-| Stop-Doing-List  | [https://blog.notgeek.cn/s/?c=20230102](https://blog.notgeek.cn/2023/01/02/stop-doing-list/) |
+| GitHub           | [https://github.com/nogeek-cn](https://github.com/nogeek-cn) |
+| Public-Blog      | [https://notgeek.cn/](https://notgeek.cn/)                   |
+| Stop-Doing-List  | [https://notgeek.cn/s/?c=20230102](https://notgeek.cn/2023/01/02/stop-doing-list/) |
 | Future Company   | [notgeek.cn](https://notgeek.cn)                             |
 
 ### 个人能力模型
@@ -21,7 +21,7 @@
 
 | 我的微信                                                     | 不止极客                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://blog.notgeek.cn/img/wechat_color_poster.png" style="width: 100px"/> | <img src="https://notgeek.cn/img/notgeek_color_poster.png" style="width: 100px"/> |
+| <img src="/img/wechat_color_poster.png" style="width: 100px"/> | <img src="/img/notgeek_color_poster.png" style="width: 100px"/> |
 
 
 
@@ -45,14 +45,13 @@
 - [ ] 《我们要自学》
 - [ ] 《终身成长》
 - [x] 《番茄工作法图解 简单易行的时间管理方法》
-- [ ] 《如何变得有思想  阮一峰博客文集》
+- [x] 《如何变得有思想  阮一峰博客文集》
 - [ ] 《优秀到不能被忽视》
 - [ ] 《阿甘正传》
-- [ ] 《如何变得有思想  阮一峰博客文集》
 - [ ] 《史蒂夫·乔布斯传＝STEVEJOBS修订版》
 - [x] 《福格行为模型》
 - [ ] 《杰克-维尔奇自传》
-- [ ] 《MacTalk·人生元编程 (池建强 著 [著, 池建强])》
+- [x] 《MacTalk·人生元编程 (池建强 著 [著, 池建强])》
 
 #### 商业模式&投资
 
@@ -91,7 +90,7 @@
 - [ ] 《巴菲特致股东的信  投资者和公司高管教程  原书第4版》
 - [ ] 《聪明的投资者  第4版》
 - [ ] 《从优秀到卓越》
-- [ ] 《你凭什么做好互联网  从技术思维到商业逻辑》
+- [x] 《你凭什么做好互联网  从技术思维到商业逻辑》
 - [ ] 《穷查理宝典：查理·芒格智慧箴言录 - 查理·芒格》
 - [ ] 《彼得·林奇的成功投资  典藏版》
 - [ ] 《战胜华尔街  彼得·林奇选股实录  典藏版》
@@ -109,8 +108,8 @@
 - [ ] 《你所做即你所是》
 - [ ] 《格鲁夫给经理人的第一课》
 - [ ] 《复盘网飞》
-- [ ] 《从0到1  开启商业与未来的秘密》
-- [ ] 《创业维艰》
+- [x] 《从0到1  开启商业与未来的秘密》
+- [x] 《创业维艰》
 - [ ] 《创新者的解答》
 
 
@@ -141,11 +140,10 @@
 #### 产品&设计
 
 - [x] 《写给大家看的设计书》
-- [ ] 《产品沉思录 2020 精选集 Final》
+- [x] 《产品沉思录 2020 精选集 Final》
 - [ ] 《认知与设计  理解UI设计准则（第2版）＝DISIGNING WITH THE MIND IN MIND》
-- [ ] 《设计师要懂心理学》
-- [ ] 《设计师要懂心理学-2》
-- [ ] 《王慧文清华产品课-合集》
+- [x] 《设计师要懂心理学-2》
+- [x] 《王慧文清华产品课-合集》
 - [x] 《启示录》
 - [ ] 《启示录打造用户喜爱的产品》
 - [ ] 《认知偏差知识手册》
