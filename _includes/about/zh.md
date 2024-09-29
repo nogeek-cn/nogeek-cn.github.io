@@ -1,12 +1,12 @@
 ### 基本信息
 
 |                  |                                                              |
-| ---------------- | ------------------------------------------------------------ |
-| 地点、学历、职业 | 杭州、本科、架构师                                           |
+| ---------------- |--------------------------------------------------------------|
+| 地点、学历、职业 | 杭州、本科、架构师                                                    |
 | 个人邮箱         | 1934849492@qq.com                                            |
 | GitHub           | [https://github.com/nogeek-cn](https://github.com/nogeek-cn) |
 | Public-Blog      | [https://notgeek.cn/](https://notgeek.cn/)                   |
-| Stop-Doing-List  | [https://notgeek.cn/s/?c=20230102](https://notgeek.cn/2023/01/02/stop-doing-list/) |
+| Stop-Doing-List  | [https://nogeek.cn/STD.html](https://nogeek.cn/STD.html)    |
 | Future Company   | [notgeek.cn](https://notgeek.cn)                             |
 
 ### 个人能力模型
