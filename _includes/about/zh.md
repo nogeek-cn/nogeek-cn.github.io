@@ -1,15 +1,15 @@
 ### 基本信息
 
-|                  |                                                              |
-| ---------------- | ------------------------------------------------------------ |
+|         |                                                              |
+|---------| ------------------------------------------------------------ |
 | 地点、学历、职业 | 杭州、本科、架构师                                           |
-| 个人邮箱         | 1934849492@qq.com                                            |
-| GitHub           | [https://github.com/nogeek-cn](https://github.com/nogeek-cn) |
-| 早期技术博客     | [https://notgeek.cn/](https://notgeek.cn/)                   |
-| stop doing list  | [https://nogeek.cn/std.html](https://nogeek.cn/std.html)     |
-| 个人品牌         | [nogeek.cn](https://nogeek.cn)                               |
+| 个人邮箱    | 1934849492@qq.com                                            |
+| GitHub  | [https://github.com/nogeek-cn](https://github.com/nogeek-cn) |
+| 早期技术博客  | [https://notgeek.cn/](https://notgeek.cn/)                   |
+| 「stop doing list」不为清单 | [https://nogeek.cn/sdl.html](https://nogeek.cn/sdl.html)     |
+| 个人品牌    | [nogeek.cn](https://nogeek.cn)                               |
 | 我的《软件方法》 | [umlcn.com](https://umlcn.com)                               |
-| 我的代码产品     | [mcode.net](https://mcode.net)                               |
+| 我的代码产品  | [mcode.net](https://mcode.net)                               |
 
 ### 个人能力模型
 
