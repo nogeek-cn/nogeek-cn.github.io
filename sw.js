@@ -170,6 +170,12 @@ self.addEventListener('fetch', event => {
   //console.log(` - type: ${event.request.type}; destination: ${event.request.destination}`)
   //console.log(` - mode: ${event.request.mode}, accept: ${event.request.headers.get('accept')}`)
 
+  if ("nogeek-cn.github.io" === new URL(event.request.url).hostname) {
+    console.log('sw.js nogeek-cn.github.io')
+    event.respondWith(Response.redirect("https://notgeek.cn"))
+    return;
+  }
+
   // Skip some of cross-origin requests, like those for Google Analytics.
   if (HOSTNAME_WHITELIST.indexOf(new URL(event.request.url).hostname) > -1) {
 
