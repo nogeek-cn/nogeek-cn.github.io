@@ -8,8 +8,6 @@ keyword: "Darian, Darian无剑, 无剑的博客, notGeek Blog, 博客, 个人网
 url: "https://notgeek.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
-encoding: utf-8
-
 post:
   author: darian
 
@@ -33,7 +31,7 @@ share_username: Darian1996
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: [ "less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md","customer_modify","other_video"]
+exclude: [ "less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md","customer_modify","other_video" ]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
 timezone: CN
