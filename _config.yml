@@ -117,14 +117,6 @@ friends: [
     href: "https://afoo.me/"
   },
   {
-    title: "乐橙 blog",
-    href: "https://www.lechengweb.com/"
-  },
-  {
-    title: "kongmingzi",
-    href: "https://www.kongmingzi.com/"
-  },
-  {
     title: "小马哥Mercyblitz",
     href: "https://mercyblitz.github.io/"
   },
@@ -171,6 +163,10 @@ friends: [
   {
     title: "openai-dell-2",
     href: "/other/openai/dell-2/"
+  },
+   {
+    title: "nogeek.cn",
+    href: "https://nogeek.cn"
   }
 
 ]
